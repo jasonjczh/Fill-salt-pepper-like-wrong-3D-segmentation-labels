@@ -10,5 +10,5 @@ Only for 3d images of ndarray now.
 --*verbose*: Display the process.  
 
 ## Examples
-![simulated noisy labels](example/noisy_label_slices.png.jpg) 
-![filled labels](example/filled_label_slices.png.jpg) 
+![simulated noisy labels](example/noisy_label_slices.png) 
+![filled labels](example/filled_label_slices.png) 
